@@ -1,6 +1,11 @@
+#container{
+  width: 800px;
+margin: 70px auto;
+}
+
 .Textbox {
   padding: 20px;
-  background: #ffff99;
+  background: blue;
   width: 90%;
   margin: 20px auto;
 	border: 4px double #b7cfe5;
